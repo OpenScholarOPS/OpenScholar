@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background (transparent) -->
+  <rect width="32" height="32" fill="none"/>
+  <!-- Flask with liquid -->
+  <path d="M14,7 L14,11 L10,25 A7,4 0 0,0 22,25 L18,11 L18,7 Z"
+        fill="#3b82f6" stroke="#e2e8f0" stroke-width="1"/>
+  <!-- Flask top -->
+  <path d="M13,7 L19,7" stroke="#e2e8f0" stroke-width="1"/>
+  <!-- Network dots -->
+  <circle cx="13" cy="16" r="1.5" fill="#f8fafc"/>
+  <circle cx="19" cy="16" r="1.5" fill="#f8fafc"/>
+  <circle cx="16" cy="20" r="2" fill="#f8fafc"/>
+  <!-- Network connections -->
+  <line x1="13" y1="16" x2="16" y2="20" stroke="#f8fafc" stroke-width="0.5"/>
+  <line x1="19" y1="16" x2="16" y2="20" stroke="#f8fafc" stroke-width="0.5"/>
+  <!-- Bubble -->
+  <circle cx="16" cy="9" r="1" fill="#f8fafc"/>
+</svg> 
