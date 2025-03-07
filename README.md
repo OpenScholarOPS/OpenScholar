@@ -221,11 +221,11 @@ The $OPS token is central to the OpenScholar ecosystem, with the following distr
   - UI/UX improvements
   - Security audits
   
-- **Fair Launch (15%)**: Initial distribution
+- **Fair Launch (10%)**: Initial distribution
   - Community airdrops
   - Academic institution allocations
   
-- **Academic Grants (10%)**: Supporting research
+- **Academic Grants (15%)**: Supporting research
   - Field-specific grants
   - Innovative methodology grants
   - Replication study grants
